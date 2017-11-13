@@ -17,6 +17,7 @@ public class Modelo {
 	public void cadastrarAdministrador(Administrador administrador) {
 		administradores.add(administrador);
 	}
+	//teste
 	
 	
 	
