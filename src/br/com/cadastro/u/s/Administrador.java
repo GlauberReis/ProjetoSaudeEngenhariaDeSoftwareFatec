@@ -2,6 +2,8 @@ package br.com.cadastro.u.s;
 
 public class Administrador {
 	private String nome,cpf;
+	private int ok;
+	private double teste = 5.6;
 	
 	
 	

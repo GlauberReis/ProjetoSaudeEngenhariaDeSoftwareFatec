@@ -20,6 +20,7 @@ public class Teste {
 			
 		//testes para cadastrar usuarios
 		modelo.cadastrarUsuario(usuario1);
+		//
 		
 		assertEquals(modelo.getUsuarios().size(), 1);
 		
